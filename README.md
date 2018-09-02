@@ -1,9 +1,9 @@
 ## Dash APP - Map of UK Immigration
 
 The following repository contains a dash app to visualise open data with immigration statistics in the UK.
-It is based on data [made pubicly available by the Home Office](https://www.gov.uk/government/publications/immigration-statistics-october-to-december-2016/work#data-tables).
+The data is [publicly available by the Home Office](https://www.gov.uk/government/publications/immigration-statistics-october-to-december-2016/work#data-tables).
 
-It is based on the [Dash](http://dash.plot.ly/) framework for webapps and and [plot.ly](http://plot.ly) for responsive data visualisation.
+The app is based on the [Dash](http://dash.plot.ly/) framework for webapps and and [plot.ly](http://plot.ly) for responsive data visualisation.
 
 A live version can be found on [https://dash-map-uk.herokuapp.com](https://dash-map-uk.herokuapp.com).
 
