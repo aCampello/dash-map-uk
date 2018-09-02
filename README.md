@@ -28,7 +28,7 @@ The app will be served on http://127.0.0.1:8060.
 
 ### Foreword and key facts 
 
-Every year, over 180,000 non-EU nationals (like myself) apply for a work or student visa to come to the United Kingdom. These indivduals are highly skilled workers, enterpreneurs, sportpersons, etc. Typically the application process involves proving to the Home Office that the visa is intended to fill a technical gap in the country, which might involve showing that the job is in the shortage occupations list or passing through a residents labours market test. A complete list of companies that sponsor or have sponsored work visas can be found here. 
+Every year, over 180,000 non-EU nationals (like myself) apply for a work or student visa to come to the United Kingdom. These indivduals are highly skilled workers, enterpreneurs, sportpersons, etc. Typically the application process involves proving to the Home Office that the visa is intended to fill a technical gap in the country, which might involve showing that the job is in the shortage occupations list or passing through a residents labours market test.
  
 The present dashboard shows the evolution of legal work immigration since 2005. This interactive visualisation accounts for statistics of legal immigration in the UK, based on freely available official data provided from 2005-2016 by the Home Office. The points-based system (PBS) visa was proposed in 2005 and started to be fully implemented in 2008, coinciding with a drop of more than 37\% in the total work visas. Further, in 2009, the UK started a policy called [hostile enviroment](https://en.wikipedia.org/wiki/Home_Office_hostile_environment_policy), which claims to have reduced illegal immigration, but data is not available to analyse this claim.  
 
