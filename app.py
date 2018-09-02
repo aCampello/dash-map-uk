@@ -62,8 +62,10 @@ Sources: [gov.uk work-visas](https://www.gov.uk/browse/visas-immigration/work-vi
 [gov.uk student-visas](https://www.gov.uk/browse/visas-immigration/student-visas).
 
 (**) Rejected applications are only available per country including all categories, and visitors. A FOIA request has 
-been made for the missing information.                    
-                       ''')
+been made for the missing information.  
+
+(***) Contributions are sought under GNU GPL v3 on [https://github.com/aCampello/dash-map-uk](https://github.com/aCampello/dash-map-uk)
+''')
                        )],
                       className='container')
 
@@ -228,14 +230,18 @@ def plot_sorted_countries(hidden_div):
 
 
 @app.callback(dash.dependencies.Output('graph-total', 'figure'),
-              [dash.dependencies.Input('type_of_visa_to_display', 'value')])
-def plot_total_graph(selected_type):
+              [dash.dependencies.Input('type_of_visa_to_display', 'value'),
+               dash.dependencies.Input('outcome_of_application', 'value')])
+def plot_total_graph(selected_type, selected_outcome):
     """
     Callback to update the graph
 
     :param selected_type:
     :return: plotly scatter
     """
+    if selected_outcome == 'rejected':
+        selected_type = selected_outcome
+
     data_frame = pd.read_csv('data/total_year_{}.csv'.format(selected_type), index_col=0)
 
     x = data_frame.index

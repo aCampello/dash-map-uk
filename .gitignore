@@ -3,3 +3,4 @@ exploration/
 *.pyc
 .DS_Store
 venv/
+.idea/
