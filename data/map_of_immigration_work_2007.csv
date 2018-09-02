@@ -1,0 +1,256 @@
+,country_code,Country,Total,Geographical region
+0,AFG,Afghanistan,29,Asia Central
+1,ALB,Albania,185,Europe Other
+2,DZA,Algeria,207,Africa North
+3,ASM,American Samoa,0,Oceania
+4,AND,Andorra,0,Europe Other
+5,AGO,Angola,51,Africa Sub-Saharan
+6,AIA,Anguilla (British),0,Other
+7,ATG,Antigua and Barbuda,4,America Central and South
+8,ARG,Argentina,253,America Central and South
+9,ARM,Armenia,209,Europe Other
+10,ABW,Aruba,0,America Central and South
+11,AUS,Australia,26052,Oceania
+12,AUT,Austria,0,EU 14
+13,AZE,Azerbaijan,176,Europe Other
+14,BHS,"Bahamas, The",25,America Central and South
+15,BHR,Bahrain,83,Middle East
+16,BGD,Bangladesh,1991,Asia South
+17,BRB,Barbados,49,America Central and South
+18,BLR,Belarus,1227,Europe Other
+19,BEL,Belgium,0,EU 14
+20,BLZ,Belize,9,America Central and South
+21,BEN,Benin,6,Africa Sub-Saharan
+22,BMU,Bermuda (British),0,Other
+23,BTN,Bhutan,3,Asia South
+24,BOL,Bolivia,25,America Central and South
+25,BES,"Bonaire, Sint Eustatius and Saba",0,America Central and South
+26,BIH,Bosnia and Herzegovina,142,Europe Other
+27,BWA,Botswana,291,Africa Sub-Saharan
+28,BRA,Brazil,953,America Central and South
+29,VGB,British Virgin Islands,0,Other
+30,BRN,Brunei,103,Asia South East
+31,BGR,Bulgaria,8,EU 2
+32,BFA,Burkina,16,Africa Sub-Saharan
+33,BDI,Burundi,2,Africa Sub-Saharan
+34,KHM,Cambodia,54,Asia South East
+35,CMR,Cameroon,166,Africa Sub-Saharan
+36,CAN,Canada,5885,America North
+37,CPV,Cape Verde,39,Africa Sub-Saharan
+38,CYM,Cayman Islands (British),0,Other
+39,CAF,Central African Republic,1,Africa Sub-Saharan
+40,TCD,Chad,1,Africa Sub-Saharan
+41,CHL,Chile,169,America Central and South
+42,CHN,China,6199,Asia East
+43,CXR,Christmas Island,0,Oceania
+44,CCK,Cocos (Keeling) Islands,0,Oceania
+45,COL,Colombia,406,America Central and South
+46,COM,Comoros,0,Africa Sub-Saharan
+47,COG,Congo,14,Africa Sub-Saharan
+48,COG,Congo (Democratic Republic),44,Africa Sub-Saharan
+49,COK,Cook Islands,0,Oceania
+50,CRI,Costa Rica,23,America Central and South
+51,HRV,Croatia,178,EU Other
+52,CUB,Cuba,398,America Central and South
+53,CYP,Cyprus,8,EU Other
+54,CYP,Cyprus (Northern part of),0,Europe Other
+55,CZE,Czech Republic,1,EU 8
+56,DNK,Denmark,0,EU 14
+57,DJI,Djibouti,2,Africa Sub-Saharan
+58,DMA,Dominica,11,America Central and South
+59,DOM,Dominican Republic,35,America Central and South
+60,TLS,East Timor,0,Asia South East
+61,ECU,Ecuador,98,America Central and South
+62,EGY,Egypt,1447,Africa North
+63,SLV,El Salvador,14,America Central and South
+64,GNQ,Equatorial Guinea,1,Africa Sub-Saharan
+65,ERI,Eritrea,415,Africa Sub-Saharan
+66,EST,Estonia,1,EU 8
+67,ETH,Ethiopia,516,Africa Sub-Saharan
+68,FLK,Falkland Islands (British),0,Other
+69,FRO,Faroe Islands,0,Europe Other
+70,FJI,Fiji,33,Oceania
+71,FIN,Finland,1,EU 14
+72,FRA,France,0,EU 14
+73,GUF,French Guiana,0,America Central and South
+74,PYF,French Polynesia,0,Oceania
+75,GAB,Gabon,18,Africa Sub-Saharan
+76,GMB,"Gambia, The",83,Africa Sub-Saharan
+77,GEO,Georgia,246,Europe Other
+78,DEU,Germany,0,EU 14
+79,GHA,Ghana,1921,Africa Sub-Saharan
+80,GIB,Gibraltar (British),0,Other
+81,GRC,Greece,0,EU 14
+82,GRL,Greenland,0,Europe Other
+83,GRD,Grenada,15,America Central and South
+84,GLP,Guadeloupe,0,America Central and South
+85,GUM,Guam,0,Oceania
+86,GTM,Guatemala,10,America Central and South
+87,GIN,Guinea,27,Africa Sub-Saharan
+88,GNB,Guinea-Bissau,3,Africa Sub-Saharan
+89,GUY,Guyana,83,America Central and South
+90,HTI,Haiti,7,America Central and South
+91,HMD,Heard Island and McDonald Islands,0,Oceania
+92,HND,Honduras,14,America Central and South
+93,HKG,Hong Kong,671,Asia East
+94,HUN,Hungary,0,EU 8
+95,ISL,Iceland,1,Europe Other
+96,IND,India,54584,Asia South
+97,IDN,Indonesia,2345,Asia South East
+98,IRN,Iran,898,Middle East
+99,IRQ,Iraq,131,Middle East
+100,IRL,Ireland,2,EU 14
+101,ISR,Israel,690,Middle East
+102,ITA,Italy,1,EU 14
+103,CIV,Ivory Coast,49,Africa Sub-Saharan
+104,JAM,Jamaica,779,America Central and South
+105,JPN,Japan,4376,Asia East
+106,JOR,Jordan,235,Middle East
+107,KAZ,Kazakhstan,371,Asia Central
+108,KEN,Kenya,881,Africa Sub-Saharan
+109,KIR,Kiribati,0,Oceania
+110,KWT,Kuwait,65,Middle East
+111,KGZ,Kyrgyzstan,59,Asia Central
+112,LAO,Laos,0,Asia South East
+113,LVA,Latvia,1,EU 8
+114,LBN,Lebanon,472,Middle East
+115,LSO,Lesotho,33,Africa Sub-Saharan
+116,LBR,Liberia,7,Africa Sub-Saharan
+117,LBY,Libya,142,Africa North
+118,LIE,Liechtenstein,0,Europe Other
+119,LTU,Lithuania,0,EU 8
+120,LUX,Luxembourg,0,EU 14
+121,MAC,Macau,0,Asia East
+122,MKD,Macedonia,297,Europe Other
+123,MDG,Madagascar,14,Africa Sub-Saharan
+124,MWI,Malawi,249,Africa Sub-Saharan
+125,MYS,Malaysia,2276,Asia South East
+126,MDV,Maldives,2,Asia South
+127,MLI,Mali,81,Africa Sub-Saharan
+128,MLT,Malta,0,EU Other
+129,MHL,Marshall Islands,0,Oceania
+130,MTQ,Martinique,0,America Central and South
+131,MRT,Mauritania,3,Africa North
+132,MUS,Mauritius,283,Africa Sub-Saharan
+133,MYT,Mayotte,0,Africa Sub-Saharan
+134,MEX,Mexico,466,America Central and South
+135,FSM,Micronesia,1,Oceania
+136,MDA,Moldova,1435,Europe Other
+137,MCO,Monaco,3,Europe Other
+138,MNG,Mongolia,37,Asia East
+139,MNE,Montenegro,0,Europe Other
+140,MSR,Montserrat (British),0,Other
+141,MAR,Morocco,676,Africa North
+142,MOZ,Mozambique,25,Africa Sub-Saharan
+143,MMR,Myanmar,128,Asia South East
+144,NAM,Namibia,97,Africa Sub-Saharan
+145,NRU,Nauru,1,Oceania
+146,NPL,Nepal,1180,Asia South
+147,NLD,Netherlands,0,EU 14
+148,NLD,Netherlands Antilles,0,America Central and South
+149,NCL,New Caledonia,0,Oceania
+150,NZL,New Zealand,8883,Oceania
+151,NIC,Nicaragua,9,America Central and South
+152,NER,Niger,48,Africa Sub-Saharan
+153,NGA,Nigeria,3080,Africa Sub-Saharan
+154,NIU,Niue,0,Oceania
+155,NFK,Norfolk Island,0,Oceania
+156,PRK,North Korea,3,Asia East
+157,MNP,Northern Mariana Islands,0,Oceania
+158,NOR,Norway,0,Europe Other
+159,OMN,Oman,67,Middle East
+160,PAK,Pakistan,3664,Asia South
+161,PLW,Palau,0,Oceania
+162,PAN,Panama,13,America Central and South
+163,PNG,Papua New Guinea,3,Oceania
+164,PRY,Paraguay,21,America Central and South
+165,PER,Peru,173,America Central and South
+166,PHL,Philippines,9545,Asia South East
+167,PCN,Pitcairn Islands (British),0,Other
+168,POL,Poland,0,EU 8
+169,PRT,Portugal,0,EU 14
+170,PRI,Puerto Rico,0,America North
+171,QAT,Qatar,21,Middle East
+172,ROU,Romania,5,EU 2
+173,RUS,Russia,7375,Europe Other
+174,RWA,Rwanda,14,Africa Sub-Saharan
+175,WSM,Samoa,10,Oceania
+176,SMR,San Marino,1,Europe Other
+177,STP,Sao Tome and Principe,2,Africa Sub-Saharan
+178,SAU,Saudi Arabia,496,Middle East
+179,SEN,Senegal,169,Africa Sub-Saharan
+180,SRB,Serbia,14,Europe Other
+181,MNE,Serbia and Montenegro,0,Europe Other
+182,SYC,Seychelles,58,Africa Sub-Saharan
+183,SLE,Sierra Leone,77,Africa Sub-Saharan
+184,SGP,Singapore,611,Asia South East
+185,SVK,Slovakia,0,EU 8
+186,SVN,Slovenia,0,EU 8
+187,SLB,Solomon Islands,4,Oceania
+188,SOM,Somalia,4,Africa Sub-Saharan
+189,ZAF,South Africa,12978,Africa Sub-Saharan
+190,GEO,South Georgia and South Sandwich Islands,0,Other
+191,KOR,South Korea,1306,Asia East
+192,ESP,Spain,0,EU 14
+193,LKA,Sri Lanka,2177,Asia South
+194,KNA,St. Kitts and Nevis,1,America Central and South
+195,LCA,St. Lucia,54,America Central and South
+196,MAF,St. Martin (French Part),0,America Central and South
+197,SPM,St. Pierre and Miquelon,0,America Central and South
+198,SDN,Sudan,426,Africa North
+199,SDN,Sudan (South),0,Africa Sub-Saharan
+200,SUR,Surinam,7,America Central and South
+201,SJM,Svalbard and Jan Mayen,0,Europe Other
+202,SWZ,Swaziland,25,Africa Sub-Saharan
+203,SWE,Sweden,0,EU 14
+204,CHE,Switzerland,0,Europe Other
+205,SYR,Syria,177,Middle East
+206,TWN,Taiwan,829,Asia East
+207,TJK,Tajikistan,17,Asia Central
+208,TZA,Tanzania,209,Africa Sub-Saharan
+209,THA,Thailand,940,Asia South East
+210,TGO,Togo,5,Africa Sub-Saharan
+211,TKL,Tokelau,0,Oceania
+212,TON,Tonga,12,Oceania
+213,TTO,Trinidad and Tobago,590,America Central and South
+214,TUN,Tunisia,175,Africa North
+215,TUR,Turkey,2541,Europe Other
+216,TKM,Turkmenistan,26,Asia Central
+217,TCA,Turks and Caicos Islands (British),0,Other
+218,TUV,Tuvalu,0,Oceania
+219,UGA,Uganda,390,Africa Sub-Saharan
+220,UKR,Ukraine,6356,Europe Other
+221,ARE,United Arab Emirates,23,Middle East
+222,USA,United States,14023,America North
+223,VIR,United States Virgin Islands,0,America North
+224,URY,Uruguay,21,America Central and South
+225,UZB,Uzbekistan,174,Asia Central
+226,VUT,Vanuatu,0,Oceania
+227,VAT,Vatican City,0,Europe Other
+228,VEN,Venezuela,268,America Central and South
+229,VNM,Vietnam,180,Asia South East
+230,WLF,Wallis and Futuna,0,Oceania
+231,ESH,Western Sahara,0,Africa North
+232,YEM,Yemen,116,Middle East
+233,ZMB,Zambia,359,Africa Sub-Saharan
+234,ZWE,Zimbabwe,1515,Africa Sub-Saharan
+235,PSE,the State of Palestine,56,Middle East
+236,REU,Réunion,0,Other
+237,BLM,Saint Barthélemy,0,Other
+238,SSD,South Sudan,0,Other
+239,VCT,Saint Vincent and the Grenadines,0,Other
+240,JEY,Jersey,0,Other
+241,CUW,Curaçao,0,Other
+242,SGS,South Georgia and the South Sandwich Islands,0,Other
+243,COD,"Congo, The Democratic Republic of the",0,Other
+244,GGY,Guernsey,0,Other
+245,GBR,United Kingdom,0,Other
+246,IOT,British Indian Ocean Territory,0,Other
+247,UMI,United States Minor Outlying Islands,0,Other
+248,SHN,"Saint Helena, Ascension and Tristan da Cunha",0,Other
+249,ATA,Antarctica,0,Other
+250,BVT,Bouvet Island,0,Other
+251,SXM,Sint Maarten (Dutch part),0,Other
+252,IMN,Isle of Man,0,Other
+253,ALA,Åland Islands,0,Other
+254,ATF,French Southern Territories,0,Other

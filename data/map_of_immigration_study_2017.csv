@@ -1,0 +1,250 @@
+,country_code,Country,Total,Geographical region
+0,ATG,Antigua and Barbuda,0,Other
+1,CCK,Cocos (Keeling) Islands,0,Other
+2,BEL,Belgium,0,Other
+3,BHR,Bahrain,0,Other
+4,GTM,Guatemala,0,Other
+5,MKD,"Macedonia, Republic of",0,Other
+6,KEN,Kenya,0,Other
+7,IMN,Isle of Man,0,Other
+8,ABW,Aruba,0,Other
+9,DOM,Dominican Republic,0,Other
+10,BGD,Bangladesh,0,Other
+11,SWZ,Swaziland,0,Other
+12,LIE,Liechtenstein,0,Other
+13,MDA,"Moldova, Republic of",0,Other
+14,BLM,Saint Barthélemy,0,Other
+15,NIU,Niue,0,Other
+16,TUV,Tuvalu,0,Other
+17,TZA,"Tanzania, United Republic of",0,Other
+18,MDV,Maldives,0,Other
+19,COK,Cook Islands,0,Other
+20,PCN,Pitcairn,0,Other
+21,BOL,"Bolivia, Plurinational State of",0,Other
+22,ASM,American Samoa,0,Other
+23,VGB,"Virgin Islands, British",0,Other
+24,NLD,Netherlands,0,Other
+25,CHL,Chile,0,Other
+26,COM,Comoros,0,Other
+27,AGO,Angola,0,Other
+28,ISL,Iceland,0,Other
+29,BRN,Brunei Darussalam,0,Other
+30,JOR,Jordan,0,Other
+31,BWA,Botswana,0,Other
+32,LKA,Sri Lanka,0,Other
+33,NOR,Norway,0,Other
+34,PRT,Portugal,0,Other
+35,MOZ,Mozambique,0,Other
+36,NGA,Nigeria,0,Other
+37,EST,Estonia,0,Other
+38,GRC,Greece,0,Other
+39,CAF,Central African Republic,0,Other
+40,MHL,Marshall Islands,0,Other
+41,SUR,Suriname,0,Other
+42,IDN,Indonesia,0,Other
+43,WSM,Samoa,0,Other
+44,SGP,Singapore,0,Other
+45,AIA,Anguilla,0,Other
+46,UMI,United States Minor Outlying Islands,0,Other
+47,AZE,Azerbaijan,0,Other
+48,FSM,"Micronesia, Federated States of",0,Other
+49,VUT,Vanuatu,0,Other
+50,TKL,Tokelau,0,Other
+51,MEX,Mexico,0,Other
+52,USA,United States,0,Other
+53,CPV,Cabo Verde,0,Other
+54,CUW,Curaçao,0,Other
+55,CIV,Côte d'Ivoire,0,Other
+56,EGY,Egypt,0,Other
+57,GLP,Guadeloupe,0,Other
+58,PHL,Philippines,0,Other
+59,PNG,Papua New Guinea,0,Other
+60,AFG,Afghanistan,0,Other
+61,PRK,"Korea, Democratic People's Republic of",0,Other
+62,MDG,Madagascar,0,Other
+63,BVT,Bouvet Island,0,Other
+64,SLE,Sierra Leone,0,Other
+65,UKR,Ukraine,0,Other
+66,BEN,Benin,0,Other
+67,TJK,Tajikistan,0,Other
+68,TUN,Tunisia,0,Other
+69,KIR,Kiribati,0,Other
+70,PSE,"Palestine, State of",0,Other
+71,GRD,Grenada,0,Other
+72,SOM,Somalia,0,Other
+73,SVN,Slovenia,0,Other
+74,COL,Colombia,0,Other
+75,MSR,Montserrat,0,Other
+76,ZWE,Zimbabwe,0,Other
+77,CYP,Cyprus,0,Other
+78,LSO,Lesotho,0,Other
+79,CRI,Costa Rica,0,Other
+80,NRU,Nauru,0,Other
+81,CAN,Canada,0,Other
+82,CXR,Christmas Island,0,Other
+83,SYC,Seychelles,0,Other
+84,MAR,Morocco,0,Other
+85,TTO,Trinidad and Tobago,0,Other
+86,UGA,Uganda,0,Other
+87,ZMB,Zambia,0,Other
+88,ESH,Western Sahara,0,Other
+89,GIN,Guinea,0,Other
+90,VNM,Viet Nam,0,Other
+91,SPM,Saint Pierre and Miquelon,0,Other
+92,CMR,Cameroon,0,Other
+93,TGO,Togo,0,Other
+94,ARG,Argentina,0,Other
+95,NPL,Nepal,0,Other
+96,KHM,Cambodia,0,Other
+97,JPN,Japan,0,Other
+98,PER,Peru,0,Other
+99,BTN,Bhutan,0,Other
+100,RWA,Rwanda,0,Other
+101,HMD,Heard Island and McDonald Islands,0,Other
+102,STP,Sao Tome and Principe,0,Other
+103,KWT,Kuwait,0,Other
+104,WLF,Wallis and Futuna,0,Other
+105,ALB,Albania,0,Other
+106,GIB,Gibraltar,0,Other
+107,MUS,Mauritius,0,Other
+108,SLB,Solomon Islands,0,Other
+109,CYM,Cayman Islands,0,Other
+110,BLZ,Belize,0,Other
+111,DMA,Dominica,0,Other
+112,GNB,Guinea-Bissau,0,Other
+113,LCA,Saint Lucia,0,Other
+114,SYR,Syrian Arab Republic,0,Other
+115,VEN,"Venezuela, Bolivarian Republic of",0,Other
+116,BLR,Belarus,0,Other
+117,VIR,"Virgin Islands, U.S.",0,Other
+118,ALA,Åland Islands,0,Other
+119,DEU,Germany,0,Other
+120,KGZ,Kyrgyzstan,0,Other
+121,TKM,Turkmenistan,0,Other
+122,MAC,Macao,0,Other
+123,RUS,Russian Federation,0,Other
+124,TLS,Timor-Leste,0,Other
+125,ECU,Ecuador,0,Other
+126,SRB,Serbia,0,Other
+127,CUB,Cuba,0,Other
+128,GGY,Guernsey,0,Other
+129,SWE,Sweden,0,Other
+130,SXM,Sint Maarten (Dutch part),0,Other
+131,URY,Uruguay,0,Other
+132,FJI,Fiji,0,Other
+133,POL,Poland,0,Other
+134,TUR,Turkey,0,Other
+135,ARM,Armenia,0,Other
+136,BHS,Bahamas,0,Other
+137,MNG,Mongolia,0,Other
+138,NCL,New Caledonia,0,Other
+139,ISR,Israel,0,Other
+140,NFK,Norfolk Island,0,Other
+141,LVA,Latvia,0,Other
+142,CZE,Czechia,0,Other
+143,MNE,Montenegro,0,Other
+144,PAN,Panama,0,Other
+145,ZAF,South Africa,0,Other
+146,TON,Tonga,0,Other
+147,KOR,"Korea, Republic of",0,Other
+148,IOT,British Indian Ocean Territory,0,Other
+149,PRI,Puerto Rico,0,Other
+150,ERI,Eritrea,0,Other
+151,AND,Andorra,0,Other
+152,BES,"Bonaire, Sint Eustatius and Saba",0,Other
+153,GUF,French Guiana,0,Other
+154,SHN,"Saint Helena, Ascension and Tristan da Cunha",0,Other
+155,MYT,Mayotte,0,Other
+156,VAT,Holy See (Vatican City State),0,Other
+157,REU,Réunion,0,Other
+158,MLT,Malta,0,Other
+159,NER,Niger,0,Other
+160,DNK,Denmark,0,Other
+161,PRY,Paraguay,0,Other
+162,TCA,Turks and Caicos Islands,0,Other
+163,PAK,Pakistan,0,Other
+164,VCT,Saint Vincent and the Grenadines,0,Other
+165,GAB,Gabon,0,Other
+166,JAM,Jamaica,0,Other
+167,JEY,Jersey,0,Other
+168,SMR,San Marino,0,Other
+169,PYF,French Polynesia,0,Other
+170,MTQ,Martinique,0,Other
+171,BIH,Bosnia and Herzegovina,0,Other
+172,GNQ,Equatorial Guinea,0,Other
+173,SVK,Slovakia,0,Other
+174,MMR,Myanmar,0,Other
+175,NAM,Namibia,0,Other
+176,LBN,Lebanon,0,Other
+177,GMB,Gambia,0,Other
+178,LBY,Libya,0,Other
+179,SAU,Saudi Arabia,0,Other
+180,BMU,Bermuda,0,Other
+181,BRB,Barbados,0,Other
+182,ARE,United Arab Emirates,0,Other
+183,GRL,Greenland,0,Other
+184,FRO,Faroe Islands,0,Other
+185,IND,India,0,Other
+186,SSD,South Sudan,0,Other
+187,DJI,Djibouti,0,Other
+188,GBR,United Kingdom,0,Other
+189,SGS,South Georgia and the South Sandwich Islands,0,Other
+190,GUM,Guam,0,Other
+191,BRA,Brazil,0,Other
+192,GUY,Guyana,0,Other
+193,HKG,Hong Kong,0,Other
+194,KNA,Saint Kitts and Nevis,0,Other
+195,MWI,Malawi,0,Other
+196,BDI,Burundi,0,Other
+197,CHN,China,0,Other
+198,ITA,Italy,0,Other
+199,FRA,France,0,Other
+200,IRL,Ireland,0,Other
+201,SDN,Sudan,0,Other
+202,IRN,"Iran, Islamic Republic of",0,Other
+203,TWN,"Taiwan, Province of China",0,Other
+204,COG,Congo,0,Other
+205,NIC,Nicaragua,0,Other
+206,ROU,Romania,0,Other
+207,LAO,Lao People's Democratic Republic,0,Other
+208,GHA,Ghana,0,Other
+209,MLI,Mali,0,Other
+210,GEO,Georgia,0,Other
+211,HND,Honduras,0,Other
+212,ATF,French Southern Territories,0,Other
+213,TCD,Chad,0,Other
+214,SJM,Svalbard and Jan Mayen,0,Other
+215,HUN,Hungary,0,Other
+216,DZA,Algeria,0,Other
+217,LUX,Luxembourg,0,Other
+218,ATA,Antarctica,0,Other
+219,MCO,Monaco,0,Other
+220,ETH,Ethiopia,0,Other
+221,UZB,Uzbekistan,0,Other
+222,MNP,Northern Mariana Islands,0,Other
+223,FIN,Finland,0,Other
+224,QAT,Qatar,0,Other
+225,FLK,Falkland Islands (Malvinas),0,Other
+226,THA,Thailand,0,Other
+227,HRV,Croatia,0,Other
+228,NZL,New Zealand,0,Other
+229,SLV,El Salvador,0,Other
+230,HTI,Haiti,0,Other
+231,AUT,Austria,0,Other
+232,LBR,Liberia,0,Other
+233,YEM,Yemen,0,Other
+234,MAF,Saint Martin (French part),0,Other
+235,MYS,Malaysia,0,Other
+236,KAZ,Kazakhstan,0,Other
+237,AUS,Australia,0,Other
+238,IRQ,Iraq,0,Other
+239,MRT,Mauritania,0,Other
+240,BFA,Burkina Faso,0,Other
+241,LTU,Lithuania,0,Other
+242,OMN,Oman,0,Other
+243,PLW,Palau,0,Other
+244,BGR,Bulgaria,0,Other
+245,ESP,Spain,0,Other
+246,SEN,Senegal,0,Other
+247,COD,"Congo, The Democratic Republic of the",0,Other
+248,CHE,Switzerland,0,Other
