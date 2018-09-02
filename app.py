@@ -152,9 +152,8 @@ def update_map(hidden_div):
     filters = hidden_div['filters']
 
     selected_year = filters.get("selected_year", 2016)
-    selected_type = filters.get("selected_type", "work")
+    selected_type = filters.get("selected_type", "all")
     selected_outcome = filters.get("selected_outcome", "granted")
-    selected_exclusion = filters.get('selected_exclusions', [])
 
     total = data_frame['Total'].sum()
 
@@ -184,14 +183,11 @@ def update_map(hidden_div):
         colorscale=[[0, "rgb(255, 10, 17)"], [1, "rgb(255, 10, 17)"]],
         showscale=False)])
 
-    selected_exclusion_to_display = ('<br>(excluding countries from the {})'.format(selected_exclusion[0])
-                                     if len(selected_exclusion) > 0 else '')
-    selected_outcome_to_display = (selected_outcome + ' ' if selected_outcome != 'all' else '')
-    plotly_layout = go.Layout(dict(title='Total number of {}{} visas in {}: {:,}.{}'.format(selected_outcome_to_display,
-                                                                                            selected_type,
-                                                                                            selected_year,
-                                                                                            total,
-                                                                                            selected_exclusion_to_display),
+    selected_type_to_display = (selected_type + ' ' if selected_type != 'all' else '')
+    plotly_layout = go.Layout(dict(title='Total number of {} {}visas in {}: {:,}.'.format(selected_outcome,
+                                                                                          selected_type_to_display,
+                                                                                          selected_year,
+                                                                                          total),
                                    width=800, height=400, margin=dict(l=20, r=0, b=0, t=80),
                                    geo=dict(showframe=False, showcoastlines=False,
                                             projection=dict(type='natural earth'),
