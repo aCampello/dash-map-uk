@@ -33,4 +33,4 @@ tldextract==2.2.0
 traitlets==4.3.2
 urllib3==1.23
 webstruct==0.6
-Werkzeug==0.14.1
+Werkzeug==0.15.3
