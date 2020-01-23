@@ -64,13 +64,10 @@ app.layout = html.Div([html.Div(id="data-loading", style={'display': 'none'}),
 (*) Work visas include mainly High-value (Tier 1), Skilled (Tier 2), Youth mobility and
 temporary workers (Tier 5), as well as non-PBS/Other work visas.
 Student visas include mainly Tier 4 (excluding short-term study). 
-Sources: [gov.uk work-visas](https://www.gov.uk/browse/visas-immigration/work-visas) and
-[gov.uk student-visas](https://www.gov.uk/browse/visas-immigration/student-visas).
+Sources: 
+[gov.uk work-visas](https://www.gov.uk/government/statistical-data-sets/immigration-statistics-data-tables-year-ending-september-2019).
 
-(**) Rejected applications are only available per country including all categories, and visitors. A FOIA request has 
-been made for the missing information.  
-
-(***) Contributions are sought under GNU GPL v3 on [https://github.com/aCampello/dash-map-uk](https://github.com/aCampello/dash-map-uk)
+(**) Contributions are sought under GNU GPL v3 on [https://github.com/aCampello/dash-map-uk](https://github.com/aCampello/dash-map-uk)
 ''')
                        )],
                       className='container')
