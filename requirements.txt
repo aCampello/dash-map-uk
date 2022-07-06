@@ -14,7 +14,7 @@ ipython-genutils==0.2.0
 itsdangerous==0.24
 Jinja2==2.10
 jsonschema==2.6.0
-lxml==4.2.4
+lxml==4.9.1
 MarkupSafe==1.0
 nbformat==4.4.0
 numpy==1.15.1
